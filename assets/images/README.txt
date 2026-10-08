@@ -1,0 +1,1 @@
+Place EduReach course thumbnails, lesson images, audio, and video assets here.
